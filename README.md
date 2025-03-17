@@ -35,7 +35,7 @@ The development of this project, I used various MySQL syntax and functions to ma
                     
 # Tools
 
-**MS Excel** - Data Cleaning[Download here](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
+**MS Excel** - Data Cleaning  [Download here](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
 
 **MySQL** - Data Analysis
 
