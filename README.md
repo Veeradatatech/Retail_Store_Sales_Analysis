@@ -1,8 +1,21 @@
-## 📊 Retail Store Sales Analysis (2022-2025)
+# 📊 Retail Store Sales Analysis (2022-2025)
+  This project explores and analyzes of a retail business’s sales data using SQL, Excel, and Power BI to identify performance trends, high-revenue segments, and business insights that can inform decision-making.
+
+# 📝 Table of Contents
+
+  * Project Overview
+  * Dataset Details
+  * Objectives
+  * Deep-Dive Insights
+  * SQL Concepts Used
+  * Dashboard
+  * How to Use
+  * Tools & Technologies
+
 
 # 📝 Project Overview
 
-This project focuses on designing and analyzing a Retail Store Sales Database using MySQL, based on a real-world-like synthetic dataset. The data represents transaction records for a retail company dealing in furniture, electric essentials, food, beverages, and general product supplies spanning data from 2022 to 2025, the project aims to uncover business insights by tracking key metrics such as:
+  This project focuses on designing and analyzing a Retail Store Sales Database using MySQL, based on a real-world-like synthetic dataset. The data represents transaction records for a retail company dealing in furniture, electric essentials, food, beverages, and general product supplies spanning data from 2022 to 2025, the project aims to uncover business insights by tracking key metrics such as:
 
 * Product categories and pricing
 
@@ -24,7 +37,7 @@ The primary goals of this project include:
 
 This end-to-end project demonstrates real-world SQL data analysis skills applicable to roles in data analytics, business intelligence, and database development.
 
-# 📦 Dataset Details
+# 📦 Dataset
 
 The dataset **Retail_Store_Sales** used for this project is sourced from **Kaggle**, a popular platform for datasets.
 It contains real-world sales data, which **Retail Store Sales dataset** contains 12,575 rows of synthetic data representing sales transactions from a retail store.
@@ -39,7 +52,15 @@ It contains real-world sales data, which **Retail Store Sales dataset** contains
 
 <img width="1322" alt="sales" src="https://github.com/user-attachments/assets/de2d855e-e258-4387-8073-b3f878743787" />
 
-# 🔍 Key Business Questions & Deep-Dive Insights
+# 📝 Objectives
+
+  * Which 'Customer_ID' has the highest total 'Total_Spent'.
+  * List all the unique 'Payment_Method' used in 'Online' transactions.
+  * Calculate the total revenue generated from 'Food' category items.
+  * Generate a report showing the percentage change in total sales for each 
+month compared to the previous month
+
+# 🔍 Deep-Dive Insights
 
 # Total Spend by Customer
 * **Insight** : Highest total spend by customer.
@@ -96,12 +117,33 @@ The development of this project, I used various MySQL syntax and functions to ma
                     **PERCENTAGE**- To calculate percentages for sales.
                     
                     **LIMIT**- To restrict the number of records by limit.
+
+# 🧮 Dashboard
+
+  ![RETAIL_STORE_SALES_page-0001](https://github.com/user-attachments/assets/55025480-8e92-4ba5-a907-a4befab5a935)
+
+# ✅ How to Use:
+
+1. Clone this repository
+   
+2. Open SQL files in your preferred client (MySQL Workbench, etc,.)
+   
+3. Use provided queries on the retail dataset
+   
+4. Optional: Open the Power BI (.pbix) file to view visualizations
+
                     
 # 🛠 Tools & Technologies
 
-* **MS Excel** : For Data Cleaning
+* **MS Excel** : For Data Cleaning, Removed duplicates and nulls. 
 
 * **MySQL**    : For Data Modeling, Transformation, Complex Querying and Analysis of Sales and Customer Data.
+
+* **Power BI** : For interactive dashboards with slicers and charts.
+
+
+
+
 
 
 
