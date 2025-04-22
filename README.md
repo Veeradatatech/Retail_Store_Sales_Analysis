@@ -120,7 +120,7 @@ The development of this project, I used various MySQL syntax and functions to ma
 
 # 📊 Dashboard
 
-
+  👉 [Download RETAIL_STORE_SALES.pbix](./PowerBI/RETAIL_STORE_SALES.pbix)
 
   ![RETAIL_STORE_SALES_page-0001](https://github.com/user-attachments/assets/55025480-8e92-4ba5-a907-a4befab5a935)
 
