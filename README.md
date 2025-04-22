@@ -94,7 +94,7 @@ month compared to the previous month
 
 # 🧮 SQL Concepts Used
 
- 👉 [Download STORE_SALE.sql](Retail_Store_Sales_Analysis/STORE_SALE.sql)
+ 👉 [Download STORE_SALE.sql](STORE_SALE.sql)
 
 The development of this project, I used various MySQL syntax and functions to manage and analyze the data,including:
                   
