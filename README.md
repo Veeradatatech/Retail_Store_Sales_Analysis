@@ -1,16 +1,16 @@
 # 📊 Retail Store Sales Analysis (2022-2025)
-  This project explores and analyzes of a retail business’s sales data using SQL, Excel, and Power BI to identify performance trends, high-revenue segments, and business insights that can inform decision-making.
+  This project explores and analysis of a retail business’s sales data using SQL, Excel, and Power BI to identify performance trends, high-revenue segments, and business insights that can inform decision-making.
 
 # 📝 Table of Contents
 
-  * Project Overview
-  * Dataset Details
-  * Objectives
-  * Deep-Dive Insights
-  * SQL Concepts Used
-  * Dashboard
-  * How to Use
-  * Tools & Technologies
+- [📄 Project Overview](#-project-overview)
+- [📦 Dataset Details](#-dataset)
+- [🎯 Objectives](#-objectives)
+- [🔍 Deep-Dive Insights](#-deep-dive-insights)
+- [🧮 SQL Concepts Used](#-sql-concepts-used)
+- [📊 Dashboard](#-dashboard)
+- [🛠 How to Use](#-how-to-use)
+- [🧰 Tools & Technologies](#-tools--technologies)
 
 
 # 📝 Project Overview
@@ -52,7 +52,7 @@ It contains real-world sales data, which **Retail Store Sales dataset** contains
 
 <img width="1322" alt="sales" src="https://github.com/user-attachments/assets/de2d855e-e258-4387-8073-b3f878743787" />
 
-# 📝 Objectives
+# 🎯 Objectives
 
   * Which 'Customer_ID' has the highest total 'Total_Spent'.
   * List all the unique 'Payment_Method' used in 'Online' transactions.
@@ -118,11 +118,13 @@ The development of this project, I used various MySQL syntax and functions to ma
                     
                     **LIMIT**- To restrict the number of records by limit.
 
-# 🧮 Dashboard
+# 📊 Dashboard
+
+
 
   ![RETAIL_STORE_SALES_page-0001](https://github.com/user-attachments/assets/55025480-8e92-4ba5-a907-a4befab5a935)
 
-# ✅ How to Use:
+# 🛠 How to Use:
 
 1. Clone this repository
    
@@ -133,7 +135,7 @@ The development of this project, I used various MySQL syntax and functions to ma
 4. Optional: Open the Power BI (.pbix) file to view visualizations
 
                     
-# 🛠 Tools & Technologies
+# 🧰 Tools & Technologies
 
 * **MS Excel** : For Data Cleaning, Removed duplicates and nulls. 
 
